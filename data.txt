@@ -2,5 +2,3 @@
 Version=0.3.5
 GameTime=300
 ImageInLobby=https://media.discordapp.net/attachments/758795317667037194/1259964295609974904/1718394791937.png
-
-# test
