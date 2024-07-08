@@ -1,4 +1,4 @@
 # General Data
 Version=0.3.5
 GameTime=300
-ImageInLobby=https://m.media-amazon.com/images/M/MV5BZmU5ZDE5NTItN2I1YS00ZmFmLTk3YTgtNzQwOGNkYzFjOWRkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg
+ImageInLobby=https://i.gyazo.com/3864e8d2fbecf37e60bbc145b0f3b643.png
