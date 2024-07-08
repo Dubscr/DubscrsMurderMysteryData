@@ -1,6 +1,4 @@
 # General Data
 Version=0.3.5
 GameTime=300
-ImageInLobby=https://media.discordapp.net/attachments/758795317667037194/1259964295609974904/1718394791937.png?ex=668d98b1&is=668c4731&hm=d750581b7d1d4d48610dde8637c8b5fcc27b59550269b67564fce44d4ba16d36&=&format=webp&quality=lossless&width=437&height=437
-
-#why not working
+ImageInLobby=https://media.discordapp.net/attachments/758795317667037194/1259964295609974904/1718394791937.png
