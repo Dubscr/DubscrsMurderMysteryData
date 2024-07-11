@@ -1,4 +1,4 @@
 # General Data
 Version=0.3.5
 GameTime=300
-ImageInLobby=https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/1024px-Gay_Pride_Flag.svg.png
+ImageInLobby=https://i.gyazo.com/f08df281a8d4ff15452cf30ff30b336f.jpg
