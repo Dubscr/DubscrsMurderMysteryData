@@ -1,4 +1,4 @@
 # General Data
 Version=0.4.0
 GameTime=300
-ImageInLobby=https://i.gyazo.com/f08df281a8d4ff15452cf30ff30b336f.jpg
+ImageInLobby=https://media.discordapp.net/attachments/1020903634797596722/1269110367611781140/sodagoob.png?ex=66aedea2&is=66ad8d22&hm=20df0ee214a8f48c6523f1959bdcee88466eecf9fafc3ecc06049ea21d2defd1
