@@ -1,4 +1,4 @@
 # General Data
 Version=0.4.0
 GameTime=300
-ImageInLobby=https://i.gyazo.com/954f6786a2e4eabab638dc16ebe88207.png
+ImageInLobby=https://i.gyazo.com/971b41c975b17758b401d0f282cd87d4.png
