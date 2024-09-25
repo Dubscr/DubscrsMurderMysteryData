@@ -1,4 +1,5 @@
 # General Data
 Version=0.4.1
 GameTime=300
+TokensPerPlayer=5
 ImageInLobby=https://i.ytimg.com/vi/AaAF51Gwbxo/sddefault.jpg
