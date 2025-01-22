@@ -2,4 +2,4 @@
 Version=0.4.2
 GameTime=300
 TokensPerPlayer=7
-ImageInLobby=https://i.ytimg.com/vi/AaAF51Gwbxo/sddefault.jpg
+ImageInLobby=https://i.gyazo.com/09faf3e32e26618da48ee30baf2017e2.png
