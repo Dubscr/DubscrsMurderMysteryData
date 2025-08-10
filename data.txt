@@ -1,5 +1,5 @@
 # General Data
-Version=0.5.0
+Version=0.5.1
 GameTime=300
 TokensPerPlayer=7
 ImageInLobby=https://i.gyazo.com/f08df281a8d4ff15452cf30ff30b336f.jpg
